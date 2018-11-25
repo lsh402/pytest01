@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85ce7182-f037-4a45-a86f-4376671874d6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/Day05.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="85ce7182-f037-4a45-a86f-4376671874d6" name="Default" comment="Default">
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.pytest_cache/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Base/base.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Base/get_driver.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Page/page_login.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Report/assets/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Report/report.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Scripts/Report/assets/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Scripts/Report/report.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Scripts/test01.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Scripts/test02.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Scripts/test_login.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pytest.ini" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -280,6 +262,14 @@
       <option name="presentableId" value="Default" />
       <updated>1542761191397</updated>
     </task>
+    <task id="LOCAL-00001" summary="Default">
+      <created>1543116897690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543116897690</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -315,6 +305,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Default" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
